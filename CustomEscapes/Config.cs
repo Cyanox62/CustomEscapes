@@ -15,6 +15,6 @@ namespace CustomEscapes
 		};
 
 		[Description("Determines the interval to check for escapes.")]
-		public float RefreshRate { get; set; } = 1f; RoleType
+		public float RefreshRate { get; set; } = 1f;
 	}
 }
